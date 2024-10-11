@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  sidebar: 
+    style: "docked"
+    search: true
+    title: "Biocircuits"
+    contents:  auto
+    #  - section: Biocircuits
+    #    contents: 
+    #      - index.qmd  
+    #      - section: Notes
+    #        contents: notes/*
+    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

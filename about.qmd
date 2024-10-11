@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+Some notes about (systems) biology

@@ -1,0 +1,19 @@
+---
+title: Page 1
+jupyter: julia-1.10
+toc: true
+---
+
+## Introduction
+
+blah!
+
+## Some code
+
+```{julia}
+print("Julia rocks!")
+```
+
+## References
+
+blurp

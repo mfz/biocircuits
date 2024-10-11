@@ -1,0 +1,9 @@
+---
+title: "Introduction"
+sidebar: true
+---
+
+Playing around with biocircuits in Julia
+
+See [Caltech's Biological Circuit Design](https://biocircuits.github.io/index.html) 
+

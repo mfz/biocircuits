@@ -1,0 +1,66 @@
+[
+  {
+    "objectID": "notes/page1.html",
+    "href": "notes/page1.html",
+    "title": "Page 1",
+    "section": "",
+    "text": "blah!",
+    "crumbs": [
+      "Notes",
+      "Page 1"
+    ]
+  },
+  {
+    "objectID": "notes/page1.html#introduction",
+    "href": "notes/page1.html#introduction",
+    "title": "Page 1",
+    "section": "",
+    "text": "blah!",
+    "crumbs": [
+      "Notes",
+      "Page 1"
+    ]
+  },
+  {
+    "objectID": "notes/page1.html#some-code",
+    "href": "notes/page1.html#some-code",
+    "title": "Page 1",
+    "section": "Some code",
+    "text": "Some code\n\nprint(\"Julia rocks!\")\n\nJulia rocks!",
+    "crumbs": [
+      "Notes",
+      "Page 1"
+    ]
+  },
+  {
+    "objectID": "notes/page1.html#references",
+    "href": "notes/page1.html#references",
+    "title": "Page 1",
+    "section": "References",
+    "text": "References\nblurp",
+    "crumbs": [
+      "Notes",
+      "Page 1"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Playing around with biocircuits in Julia\nSee Caltech’s Biological Circuit Design",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Some notes about (systems) biology",
+    "crumbs": [
+      "About"
+    ]
+  }
+]
